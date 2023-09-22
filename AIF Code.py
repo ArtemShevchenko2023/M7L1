@@ -28,4 +28,4 @@ async def check(ctx):
 async def heh(ctx, count_heh = 5):
     await ctx.send("he" * count_heh)
 
-bot.run("MTE1MjU3MzAyNTIxNzE1MTA5Ng.GInotW.lfTlgCZlVy_gCOe-k_a3ffGAMiiCxCIl2eBZYs")
+bot.run("")
